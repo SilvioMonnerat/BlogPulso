@@ -1,0 +1,1022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"post",
+				"post-entry"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"$thu",
+				"$thumb"
+			],
+			[
+				"the",
+				"the_post"
+			],
+			[
+				"$t",
+				"$title"
+			],
+			[
+				"$th",
+				"$thumb"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"post-e",
+				"post-entry"
+			],
+			[
+				"Op",
+				"OpenSans"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"coment",
+				"comentários"
+			],
+			[
+				"post-",
+				"post-content"
+			],
+			[
+				"O",
+				"OpenSans-CondLightItalic"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"Econo",
+				"Economica"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"Econ",
+				"Economica"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"Open",
+				"OpenSans-CondLight"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"$thumb",
+				"$thumb"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"tem",
+				"template_url"
+			],
+			[
+				"the_pos",
+				"the_post_thumbnail"
+			],
+			[
+				"$tum",
+				"$thumbnail"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"menu",
+				"menu_class"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"is",
+				"is_object"
+			],
+			[
+				"quer",
+				"query_posts"
+			],
+			[
+				"cat",
+				"cat_ID"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"the_",
+				"the_content"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ara",
+				"array"
+			],
+			[
+				"lucid_feat_",
+				"lucid_feat_posts_cat"
+			],
+			[
+				"lucid",
+				"lucid_feat_pages"
+			],
+			[
+				"OR",
+				"orderby"
+			],
+			[
+				"fe",
+				"featured"
+			],
+			[
+				"posts",
+				"posts_per_page"
+			],
+			[
+				"et",
+				"et_get_option"
+			],
+			[
+				"et_fe",
+				"et_featured_post_args"
+			],
+			[
+				"$feat",
+				"$featured_query"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"F",
+				"float"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"get_",
+				"get_sidebar"
+			],
+			[
+				"is_a",
+				"is_active_sidebar"
+			],
+			[
+				"abou",
+				"aboutText"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"o",
+				"pointer"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"main",
+				"main-title"
+			],
+			[
+				"en",
+				"endwhile"
+			],
+			[
+				"templa",
+				"TEMPLATEPATH"
+			],
+			[
+				"wp_",
+				"WP_Query"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tu",
+				"thumbnail"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"custo",
+				"custom_exercept"
+			],
+			[
+				"co",
+				"background-color"
+			],
+			[
+				"num",
+				"is_numeric"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"lie",
+				"line-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mR",
+				"margin"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"is_ca",
+				"is_category"
+			],
+			[
+				"single",
+				"single_cat_title"
+			],
+			[
+				"get_cate",
+				"get_the_category"
+			],
+			[
+				"register",
+				"registerCategorias"
+			],
+			[
+				"true",
+				"TRUE"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"q",
+				"query_var"
+			],
+			[
+				"gê",
+				"Gêneros"
+			],
+			[
+				"add_new",
+				"add_new_item"
+			],
+			[
+				"edit",
+				"edit_item"
+			],
+			[
+				"pare",
+				"parent_item_colon"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"Noti",
+				"Notícia"
+			],
+			[
+				"Not",
+				"Notícia"
+			],
+			[
+				"No",
+				"Notícia"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"rew",
+				"rewrite"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ce",
+				"clear"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"home",
+				"Home"
+			],
+			[
+				"clear",
+				"clearfix"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/blogPulso/style.css",
+			"settings":
+			{
+				"buffer_size": 72817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/blogPulso/includes/functions.php",
+			"settings":
+			{
+				"buffer_size": 24582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/blogPulso/home.php",
+			"settings":
+			{
+				"buffer_size": 6838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/blogPulso/header.php",
+			"settings":
+			{
+				"buffer_size": 6020,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/blogPulso/footer.php",
+			"settings":
+			{
+				"buffer_size": 6988,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/widgets/widget-fromblog.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/themes/default/default.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/nivo-slider.css",
+		"/C/Users/conta_000/Downloads/Doc Tools/nivo-slider/index.html",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/template-pulso.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/template-cursos.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/blog-excerpt.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/page.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/functions.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/single.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/js/jquery.nivo.slider.js",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/header.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/footer.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/slider.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/style.css",
+		"/C/Users/conta_000/Downloads/flexslider/index.html",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/blog.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/functions.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/header.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/comments.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/archive.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/sidebar-half-left.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/sidebar-content-half-page.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/sidebar-colophon.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/full-width-page.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/page-categoria.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/sidebar-content-page.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/single-categoria.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/template-categoria.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/template-noticia.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/loop-page.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/search.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/content-comments.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/landing-page.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/flexslider.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/sidebar.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/theme-options.css",
+		"/C/wamp/www/BlogPulso/wp-content/plugins/wp-pagenavi/pagenavi-css.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/js/jquery.mousewheel.js",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/js/demo.js",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/js/jquery.flexslider.js",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/demo.css",
+		"/C/wamp/www/BlogPulso/wp-content/plugins/wp-pagenavi/admin.php",
+		"/C/wamp/www/BlogPulso/wp-content/plugins/wp-pagenavi/core.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/navigation.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/m_toolbox/functions.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/widgets.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/functions/sidebars.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/functions.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/m_toolbox/widget-post-lidos.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/m_toolbox/slideshow.php",
+		"/C/Users/conta_000/Downloads/widget_sobre-autor.class.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/content-home",
+		"/C/Users/conta_000/Downloads/slide.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/m_toolbox/timthumb/timthumb.php",
+		"/C/Users/conta_000/Downloads/wp-slide/index.php",
+		"/C/Users/conta_000/Downloads/wp-slide/index.html",
+		"/C/Users/conta_000/Downloads/Doc Tools/destaques/documentacao.php",
+		"/C/Users/conta_000/Downloads/wp-slide/css/global.css",
+		"/C/Users/conta_000/Downloads/wp-slide/functions.php",
+		"/C/Users/conta_000/Downloads/wp-slide/style.css",
+		"/C/Users/conta_000/Downloads/Doc Tools/woothemes-FlexSlider-a4647ed/demo/index.html",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/shCore.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/shThemeDefault.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/style-slider.css",
+		"/C/Users/conta_000/Downloads/Doc Tools/woothemes-FlexSlider-a4647ed/demo/basic-carousel.html",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/class.post.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/class.noticia.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/includes/featured.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/js/jquery.nivo.slider.pack.js",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/style.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/css/default.css",
+		"/F/_wp-tools/Doc Tools/nivo-slider/demo/demo.html",
+		"/F/_wp-tools/Doc Tools/FlexSlider/demo/index.html",
+		"/F/_wp-tools/Doc Tools/woothemes-FlexSlider-a4647ed/demo/index.html",
+		"/F/_wp-tools/Doc Tools/woothemes-FlexSlider-a4647ed/demo/thumbnail-controlnav.html",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/image.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/home.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/blogPulso/searchform.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/wp-slide/index.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/wp-slide/functions.php",
+		"/C/wamp/www/BlogPulso/wp-content/themes/wp-slide/css/global.css",
+		"/C/wamp/www/BlogPulso/wp-content/themes/wp-slide/js/slides.min.jquery.js",
+		"/C/wamp/www/BlogPulso/wp-content/themes/wp-slide/index.html",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/less/style.less",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/footer.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/footer-cadastro.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/epanel/page_templates/page_templates.css",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/loop-curso.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/m_toolbox/inc/wp/metaboxes/meta/curso-meta.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/widgets/widget-fromblog.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/breadcrumbs-noticia.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/loop-noticia.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/widgets/widget-frompage.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/widgets/widget-rss.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/custom_post/class.noticia.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/wp-calendar/FormEvent.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/wp-calendar/fsCalendar.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/single-curso.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/loop-agenda.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/wp-calendar/fsCalendarEvent.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/wp-calendar/fsCalendarAdmin.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/custom_post/class.curso.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/wp-calendar/fsCalendarSettings.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/wp-calendar/fsCalendarFunctions.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/page-agenda.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/m_toolbox/datacurso.php",
+		"/C/wamp/www/wordpress/wp-content/plugins/wp-calendar/FormOverview.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/page-grupo.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/loop-video.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/loop-grupo.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/single-video.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/single-noticia.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/widgets/widget-from-video.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/featured.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/template-video.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/page-gallery.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/sidebar-not.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/widgets.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/functions/sidebars.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/sidebar-noticia.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/home.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/sidebar-home.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/sidebar.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/sidebar-2.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/sidebar2.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/loop-anuncio.php",
+		"/C/wamp/www/wordpress/wp-content/themes/GrupoDeMidia/includes/widgets/widget-gallery.php"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\wordpress\\wp-content\\themes\\GrupoDeMidia",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"powered",
+			"powred",
+			"h1.post-title",
+			".read-more a",
+			".post-meta",
+			"h1.post-title a",
+			"#widgets ul",
+			"powered",
+			"@",
+			"#top-widget",
+			".top-widget #searchform",
+			".theme-default",
+			"#top-widget",
+			"#content-blog",
+			".home #widgets",
+			"widgets",
+			"post-entry",
+			"#widgets",
+			".nivo-caption",
+			"post-meta",
+			"post",
+			"slideInLeft",
+			"facebook",
+			"body",
+			"h1.post-title",
+			"post-title",
+			".flex-control-nav",
+			".wp-pagenavi .pages",
+			"#bg-footer",
+			"author-meta",
+			"post-entry",
+			".post-entry",
+			"#footer",
+			".footer",
+			".post-meta",
+			".post-content",
+			".post-content\"",
+			".post-entry",
+			"col-300",
+			"#widgets",
+			"#sidebar",
+			"#author-meta img",
+			"#content",
+			".post-data",
+			"author-meta",
+			"a",
+			"read-more",
+			".read-more",
+			".read-more a",
+			".home #widgets",
+			"content",
+			"content-blog",
+			"#content-blog",
+			"powered",
+			".footer-menu li a",
+			"footer-menu",
+			"footer a",
+			"footer",
+			"shadow",
+			"flex-control-nav",
+			"footer a",
+			"footer",
+			"#footer-menu",
+			"footer-menu",
+			".footer-menu",
+			"grid col-540",
+			"footer",
+			"img.attachment-thumbnail",
+			"img.attachment-full, img.attachment-large, img.attachment-medium, img.attachment-thumbnail",
+			"body",
+			"h1",
+			"#c6c6c6",
+			"more-read",
+			"#widgets",
+			"#widgets ul",
+			"#widgets ul, #widgets ol",
+			".widget-title",
+			".post-meta",
+			"widget-title",
+			".widget-wrapper",
+			"img.wp-post-image",
+			".read-more",
+			"raedmore",
+			"redmore",
+			"readmore",
+			"div",
+			"post-content",
+			"post-entry",
+			"img.wp-post-image",
+			"post-meta",
+			"responsive_post_meta_data",
+			".read-more",
+			"post",
+			"img.wp-post-image",
+			".post-meta",
+			"post-title",
+			".post-meta",
+			".post-title",
+			"post-title",
+			"#container",
+			"menu",
+			"banner-home",
+			"the_crop_image",
+			"the_crop",
+			"background: url",
+			"url",
+			".nivo-controlNav",
+			".slider-wrapper",
+			"container",
+			"hfeed",
+			"images",
+			"bg_direction_nav.png",
+			"flex-next",
+			"search",
+			".menu ul",
+			".menu .menu ul",
+			".menu, .menu ul",
+			"header-menu",
+			"menu",
+			"header-menu",
+			"logo",
+			"evento-curso",
+			"curso-evento",
+			"#newsletter",
+			"#newsletter .cform",
+			"#newsletter",
+			"post_content",
+			"post-content"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hoje",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/blogPulso/style.css",
+					"settings":
+					{
+						"buffer_size": 72817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40432,
+								40432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 23501.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/blogPulso/includes/functions.php",
+					"settings":
+					{
+						"buffer_size": 24582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 107.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/blogPulso/home.php",
+					"settings":
+					{
+						"buffer_size": 6838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5840,
+								5840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 872.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/blogPulso/header.php",
+					"settings":
+					{
+						"buffer_size": 6020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/blogPulso/footer.php",
+					"settings":
+					{
+						"buffer_size": 6988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6215,
+								6215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1260.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/FeiraoCury/FeiraoCury.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true
+}
