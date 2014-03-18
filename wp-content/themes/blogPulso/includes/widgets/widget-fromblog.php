@@ -1,5 +1,4 @@
-<?php class ETRecentFromWidget extends WP_Widget
-{
+<?php class ETRecentFromWidget extends WP_Widget {
     function ETRecentFromWidget(){
 		$widget_ops = array('description' => 'Displays recent posts from any category');
 		$control_ops = array('width' => 400, 'height' => 300);
